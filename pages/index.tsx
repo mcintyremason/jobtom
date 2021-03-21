@@ -42,7 +42,7 @@ theme.typography.h5 = {
 
 const IndexPage = () => (
   <ThemeProvider theme={theme}>
-    <Layout title="Mason's Services">
+    <Layout title="Jobtom">
       <Grid
         className="app"
         itemScope

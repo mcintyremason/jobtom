@@ -27,7 +27,7 @@ const Header: React.FC<HeaderProps> = (_: HeaderProps) => {
           >
             <h1 className={styles["header-name"]}>
               <Link itemProp="legalName" className={styles["name"]} href="/">
-                Mason's Services
+                Jobtom
               </Link>
             </h1>
           </Grid>

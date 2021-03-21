@@ -7,11 +7,7 @@ type Props = {
   styles?: string;
 };
 
-const Layout = ({
-  children,
-  title = "Mason's Services",
-  styles = "",
-}: Props) => (
+const Layout = ({ children, title = "Jobtom", styles = "" }: Props) => (
   <div>
     <Head>
       <title>{title}</title>
