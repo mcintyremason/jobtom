@@ -44,7 +44,7 @@ const IndexPage = () => (
   <ThemeProvider theme={theme}>
     <Layout title="Jobtom">
       <Grid
-        className="app"
+        className="app full-height"
         itemScope
         itemType="http://schema.org/LocalBusiness"
       >
